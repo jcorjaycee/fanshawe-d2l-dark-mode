@@ -1,0 +1,44 @@
+.d2l-le-calendar-print-event-item {
+	page-break-after: always;
+}
+
+.d2l-contextmenu-ph {
+	display: none;
+}.d2l-draghandle-handle {
+	display: none;	
+}.d2l-editable-empty {
+	display: none;
+}.d2l-htmlblock a, .d2l-htmlblock a:visited {
+	color: #494c4e; 
+	text-decoration: none;
+}
+a.d2l-link, a.d2l-link:visited, a.d2l-link:hover {
+	color: #404040;
+	text-decoration: none;
+}
+.d2l-body {
+	background-color: #FFFFFF;
+}
+
+.d2l-page-bg > div {
+	background-color: #FFFFFF;
+}
+.d2l-charttooltip {
+	display: none;
+}.d2l-minibar-placeholder,
+.d2l-navbar-area {
+	display: none;
+}
+
+.d2l-navbar-container {
+	background-color: #FFFFFF !important;
+	border: none !important;
+}
+
+.d2l-navbar {
+	border-bottom: 1px solid #404040 !important;
+}
+
+.d2l-navbar-logo {
+	margin-bottom: 5px;	
+}
