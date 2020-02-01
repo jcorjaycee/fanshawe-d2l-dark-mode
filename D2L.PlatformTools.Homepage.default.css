@@ -1,198 +1,203 @@
 .d2l-homepage {
-	margin: 0;
+    margin: 0;
 }
 
 .d2l-homepage-pageactions > .d2l-page-actions {
-	background-color: #FAFAFA; 
-	border-radius: 3px;
-	padding-right: 10px;
-	padding-bottom: 5px;
+    background-color: #121212;
+    border-radius: 3px;
+    padding-right: 10px;
+    padding-bottom: 5px;
 }
 
+/*edited*/
+
 .d2l-homepage-pageheader {
-	margin-bottom: 10px;
-	padding: 0;
+    margin-bottom: 10px;
+    padding: 0;
 }
 
 .d2l-widget-header {
-	align-items: center;
-	display: flex;
-	padding: 6px 0;
-	position: relative;
+    align-items: center;
+    display: flex;
+    padding: 6px 0;
+    position: relative;
 }
 
 .d2l-widget-header .d2l-heading {
-	color: inherit;
-	line-height: 1.3em;
-	margin-right: 50px;
-	overflow: hidden;
-	padding-bottom: 0;
-	text-overflow: ellipsis;
-	white-space: nowrap;
+    color: inherit;
+    line-height: 1.3em;
+    margin-right: 50px;
+    overflow: hidden;
+    padding-bottom: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .d2l-widget-header .d2l-heading.vui-heading-2 {
-	font-weight: 700;
-	font-size: 20px;
-	line-height: 30px;
-	letter-spacing: 0.5px;
-	color: #494c4e; 
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.5px;
+    color: #121212;
 }
 
+/*edited*/
+
 .d2l-homepage-header-menu-wrapper .d2l-contextmenu-ph {
-	min-height: -webkit-calc(1.4rem + 2px);
-	min-height: calc(1.4rem + 2px);
-	width: -webkit-calc(1.4rem + 2px);
-	width: calc(1.4rem + 2px);
+    min-height: -webkit-calc(1.4rem + 2px);
+    min-height: calc(1.4rem + 2px);
+    width: -webkit-calc(1.4rem + 2px);
+    width: calc(1.4rem + 2px);
 }
 
 .d2l-widget {
-	border-bottom: 1px solid #D8D8D8; 
-	margin-bottom: 45px;
-	padding-bottom: 60px;
-	position: relative;
+    border-bottom: 1px solid #D8D8D8;
+    margin-bottom: 45px;
+    padding-bottom: 60px;
+    position: relative;
 }
 
 .homepage-container div:last-of-type .d2l-widget:last-child {
-	border-bottom: 1px solid #FFFFFF;
-	margin-bottom: 0;
-	padding-bottom: 0;
+    border-bottom: 1px solid #FFFFFF;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .d2l-widget-content {
-	clear: both;
+    clear: both;
 }
 
 .d2l-widget-header-clickable {
-	cursor:pointer;
+    cursor: pointer;
 }
 
 .d2l-widget-header-seperator {
-	width: 1px;
-	background: #b4b4b4; 
-	height: 1.1em;
-	float: left;
-	margin: 5px 0 0 0.5em;
+    width: 1px;
+    background: #b4b4b4;
+    height: 1.1em;
+    float: left;
+    margin: 5px 0 0 0.5em;
 }
 
 [dir='rtl'] .d2l-widget-header-seperator {
-	float: right;
-	margin-left: 0;
-	margin-right: 5px;
+    float: right;
+    margin-left: 0;
+    margin-right: 5px;
 }
 
 .d2l-homepage .d2l-box-h > .d2l-widget {
-	margin-right: 10px;
+    margin-right: 10px;
 }
 
 [dir='rtl'] .d2l-homepage .d2l-box-h > .d2l-widget {
-	margin-left: 10px;
-	margin-right: 0;
+    margin-left: 10px;
+    margin-right: 0;
 }
 
 .d2l-homepage .d2l-box-h:last-child > .d2l-widget {
-	margin-right: 0;
+    margin-right: 0;
 }
 
 [dir='rtl'] .d2l-homepage .d2l-box-h:last-child > .d2l-widget {
-	margin-left: 0;
+    margin-left: 0;
 }
 
 .d2l-widget-header .d2l-homepage-heading-link {
-	color: inherit;
+    color: inherit;
 }
 
 .d2l-widget-header .d2l-homepage-heading-link:hover,
 .d2l-widget-header .d2l-homepage-heading-link:focus {
-	text-decoration: underline;
+    text-decoration: underline;
 }
 
 [dir='rtl'] .d2l-widget-header .d2l-heading {
-	margin-left: 50px;
-	margin-right: 0;
+    margin-left: 50px;
+    margin-right: 0;
 }
 
 .d2l-widget-content .d2l-heading {
-	max-width: 100%;
-	word-wrap: break-word;
+    max-width: 100%;
+    word-wrap: break-word;
 }
 
 .d2l-homepage-header-wrapper {
-	margin-right: -50px;
-	overflow: hidden;
-	max-width: 100%;
-	float: left;
+    margin-right: -50px;
+    overflow: hidden;
+    max-width: 100%;
+    float: left;
 }
 
 [dir='rtl'] .d2l-homepage-header-wrapper {
-	margin-left: -50px;
-	margin-right: 0;
-	float: right;
+    margin-left: -50px;
+    margin-right: 0;
+    float: right;
 }
 
 .d2l-homepage-header-menu-wrapper {
-	float: left;
+    float: left;
 }
 
 [dir='rtl'] .d2l-homepage-header-menu-wrapper {
-	float: right;
+    float: right;
 }
 
 .d2l-homepage-header-collapse-wrapper {
-	float: right;
-	margin-top: 0.3em;
+    float: right;
+    margin-top: 0.3em;
 }
 
 [dir='rtl'] .d2l-homepage-header-collapse-wrapper {
-	float: left;
+    float: left;
 }
 
-.d2l-homepage-header-menu-wrapper
-.d2l-homepage-header-collapse-wrapper {
-	display: inline-block;
+.d2l-homepage-header-menu-wrapper .d2l-homepage-header-collapse-wrapper {
+    display: inline-block;
 }
 
 .d2l-homepage-footer-menu {
-	float: right;
-	margin-top: 1rem;
-	margin-bottom: 1rem;
+    float: right;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 [dir='rtl'] .d2l-homepage-footer-menu {
-	float: left;
+    float: left;
 }
 
 .d2l-course-banner-container {
-	position: relative;
-	height: 200px;
-	max-width: 100%;
-	width: 1230px;
+    position: relative;
+    height: 200px;
+    max-width: 100%;
+    width: 1230px;
 }
 
 .d2l-course-banner-container.showing-alert {
-	height: auto;
-	margin-top: 10px;
+    height: auto;
+    margin-top: 10px;
 }
 
 .d2l-course-banner-container.showing-alert d2l-image-banner-overlay {
-	position: relative;
+    position: relative;
 }
 
 .d2l-course-banner-container.showing-alert .d2l-course-banner {
-	display: none;
+    display: none;
 }
 
 .d2l-course-banner {
-	display: flex;
-	align-items: center;
-	overflow: hidden;
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	background: #f9fbff; 
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #121212;
 }
+
+/*edited*/
 
 .d2l-course-banner.d2l-load-error .d2l-course-banner-image {
     display: none;
@@ -209,76 +214,77 @@
 }
 
 .d2l-course-banner-image {
-	opacity: 0;
-	transition: opacity 1s;
-	min-width: 1170px;
-	width: 100%;
+    opacity: 0;
+    transition: opacity 1s;
+    min-width: 1170px;
+    width: 100%;
 }
 
 @supports (object-fit: cover) {
-	.d2l-course-banner-container {
-		width: auto;
-	}
+    .d2l-course-banner-container {
+        width: auto;
+    }
 
-	.d2l-course-banner-image {
-		object-fit: cover;
-		min-height: 100%;
-		min-width: 100%;
-	}
+    .d2l-course-banner-image {
+        object-fit: cover;
+        min-height: 100%;
+        min-width: 100%;
+    }
 
-	.d2l-course-banner {
-		width: 100%;
-	}
+    .d2l-course-banner {
+        width: 100%;
+    }
 }
 
 .d2l-course-banner-image.d2l-shown {
-	opacity: 1;
+    opacity: 1;
 }
 
 @media (max-width: 1230px) {
-	.d2l-course-banner-image {
-		min-width: 1230px;
-		margin-left: calc((100vw - 1230px) / 2);
-	}
+    .d2l-course-banner-image {
+        min-width: 1230px;
+        margin-left: calc((100vw - 1230px) / 2);
+    }
 
-	[dir="rtl"] .d2l-course-banner-image {
-		margin-right: calc((100vw - 1230px) / 2);
-		margin-left: auto;
-	}
+    [dir="rtl"] .d2l-course-banner-image {
+        margin-right: calc((100vw - 1230px) / 2);
+        margin-left: auto;
+    }
 
-	@supports (object-fit: cover) {
-		.d2l-course-banner-image {
-			width: auto;
-		}
+    @supports (object-fit: cover) {
+        .d2l-course-banner-image {
+            width: auto;
+        }
 
-		.d2l-course-banner-container {
-			max-width: 100%;
-		}
+        .d2l-course-banner-container {
+            max-width: 100%;
+        }
 
-		.d2l-course-banner {
-			justify-content: center;
-		}
+        .d2l-course-banner {
+            justify-content: center;
+        }
 
-		.d2l-course-banner-image, [dir="rtl"] .d2l-course-banner-image {
-			margin: 0;
-			min-width: 100%;
-		}
-	}
+        .d2l-course-banner-image,
+        [dir="rtl"] .d2l-course-banner-image {
+            margin: 0;
+            min-width: 100%;
+        }
+    }
 }
 
 @media (min-width: 1230px) {
-	.d2l-course-banner-container {
-		margin: 0 30px;
-		width: auto;
-		max-width: calc(100% - 30px);
-	}
+    .d2l-course-banner-container {
+        margin: 0 30px;
+        width: auto;
+        max-width: calc(100% - 30px);
+    }
 
-	.d2l-course-banner {
-		width: 100%;
-	}
+    .d2l-course-banner {
+        width: 100%;
+    }
 }
 
 .d2l-homepage-manage-listitem-container {
-	display: flex;
-	align-items: center;
+    display: flex;
+    align-items: center;
 }
