@@ -1,8 +1,8 @@
 # fanshawe-d2l-dark-mode
  Brightspace didn't want to give us a dark mode, so we made our own.
 
-## Modifying (for contributors)
- The best way to work with this is using Brackets, Just Color Picker and a web browser of your choice.
+## Modifying (for contributors) and beta testing (for testers)
+ The best way to work with this is using [Brackets](http://brackets.io/), [Just Color Picker](https://annystudio.com/software/colorpicker/) and a web browser of your choice (but I only support Chromium-based browsers for now).
  To import what's already been done into the browser (in Chromium), open up Developer Tools, switch to Sources, open fanshaweonline.ca/d2l/common/css and drop the code into the file it belongs in. The changes should show immediately.
  
 ## Installing (for end users)
