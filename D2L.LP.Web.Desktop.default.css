@@ -1670,7 +1670,7 @@ d2l-floating-buttons {
 .d2l-tool-areas-link:link,
 .d2l-tool-areas-link:hover,
 .d2l-tool-areas-link:focus {
-    color: #004E62;
+    color: #558995;
     display: inline-block;
     padding: 0 15px;
     text-decoration: none;
@@ -1708,13 +1708,13 @@ d2l-floating-buttons {
 .daylight .d2l-tool-areas-item-selected > .d2l-tool-areas-link:link,
 .daylight .d2l-tool-areas-item-selected > .d2l-tool-areas-link:hover,
 .daylight .d2l-tool-areas-item-selected > .d2l-tool-areas-link:focus {
-    color: #004E62;
+    color: #558995;
 }
 
 /*edited*/
 
 .d2l-tool-areas-bar {
-    border-top: 3px solid #004E62;
+    border-top: 3px solid #558995;
     bottom: 1px;
     display: none;
     position: absolute;
@@ -1724,7 +1724,7 @@ d2l-floating-buttons {
 /*edited*/
 
 .daylight .d2l-tool-areas-bar {
-    border-top: 3px solid #004E62;
+    border-top: 3px solid #558995;
 }
 
 /*edited*/
