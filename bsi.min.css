@@ -506,7 +506,7 @@ button.d2l-button {
 .vui-button:visited,
 .vui-button[disabled]:focus,
 .vui-button[disabled]:hover {
-    background-color: #121212;
+    background-color: #262626;
     border: 1px solid #332A23;
     color: #e1e1e1;
     outline: 0;
@@ -532,7 +532,7 @@ button.d2l-button {
 .vui-button:focus,
 .vui-button:hover {
     border-color: #332A23;
-    background-color: #121212
+    background-color: #262626
 }
 
 .vui-button-primary {
@@ -671,13 +671,13 @@ button.d2l-button {
 .bsi-button-menu:hover,
 .bsi-button-menu:link,
 .bsi-button-menu:visited {
-    background-color: #121212;
+    background-color: #262626;
     border-color: #332A23;
     color: #e1e1e1
 }
 
 .bsi-button-menu:hover {
-    background-color: #121212
+    background-color: #262626
 }
 
 .bsi-button-menu:not(.vui-disabled):not(.bsi-button-menu-primary):focus {
@@ -781,7 +781,7 @@ button.d2l-button {
 .vui-dropdown-menu > ul > li.d2l-last-visible-item {
     border-bottom-left-radius: .4rem;
     border-bottom-right-radius: .4rem;
-    border-bottom: 1px solid #121212
+    border-bottom: 1px solid #262626
 }
 
 .vui-dropdown-menu > ul > li.d2l-contextmenu-item-hover-next-visible {
@@ -877,9 +877,9 @@ button.d2l-button {
 }
 
 .vui-dropdown-menu > ul > li {
-    border-top: 1px solid #121212;
-    border-left: 1px solid #121212;
-    border-right: 1px solid #121212;
+    border-top: 1px solid #262626;
+    border-left: 1px solid #262626;
+    border-right: 1px solid #262626;
     border-bottom: 1px solid transparent;
     line-height: 0
 }
@@ -892,7 +892,7 @@ button.d2l-button {
 .vui-dropdown-menu > ul > li:last-child {
     border-bottom-left-radius: .4rem;
     border-bottom-right-radius: .4rem;
-    border-bottom: 1px solid #121212
+    border-bottom: 1px solid #262626
 }
 
 .vui-dropdown-menu > ul > li[role=separator] {
@@ -905,7 +905,7 @@ button.d2l-button {
 
 .vui-dropdown-menu > ul > li.d2l-last-visible-item.vui-dropdown-menu-item-focus,
 .vui-dropdown-menu > ul > li.vui-dropdown-menu-item-focus {
-    background-color: #121212
+    background-color: #262626
 }
 
 .vui-dropdown-menu > ul > li.d2l-last-visible-item.vui-dropdown-menu-item-focus,
@@ -954,7 +954,7 @@ button.d2l-button {
 }
 
 .vui-changed {
-    background-color: #121212
+    background-color: #262626
 }
 
 .vui-field-row {
@@ -1079,7 +1079,7 @@ button.d2l-button {
 }
 
 .vui-list > .vui-selected {
-    background-color: #121212;
+    background-color: #262626;
     border-top-color: #2196f3
 }
 
@@ -1092,7 +1092,7 @@ button.d2l-button {
 }
 
 .vui-list > .vui-active {
-    background-color: #121212;
+    background-color: #262626;
     border-top-color: #2196f3
 }
 
@@ -1101,7 +1101,7 @@ button.d2l-button {
 }
 
 .vui-list > .vui-active.vui-selected {
-    background-color: #121212
+    background-color: #262626
 }
 
 d2l-dropdown-content .vui-list {
@@ -1233,7 +1233,7 @@ d2l-dropdown-content .vui-list {
 
 .d2l-floating-container {
     border: solid 1px #332A23;
-    background-color: #121212;
+    background-color: #262626;
     border-radius: .4rem;
     box-shadow: 0 2px 12px 0 rgba(86, 90, 92, .2)
 }
@@ -1450,7 +1450,7 @@ d2l-dropdown-content .vui-list {
 
 .d2l-htmleditor-button:focus,
 .d2l-htmleditor-button:hover {
-    background-color: #121212
+    background-color: #262626
 }
 
 .d2l-htmleditor-button-active {
@@ -1480,7 +1480,7 @@ d2l-dropdown-content .vui-list {
 
 .d2l-htmleditor-buttonmenuitem:focus,
 .d2l-htmleditor-buttonmenuitem:hover {
-    background-color: #161616
+    background-color: #262626
 }
 
 .d2l-htmleditor-buttonmenuitem.d2l-htmleditor-button-active {
@@ -1489,7 +1489,7 @@ d2l-dropdown-content .vui-list {
 
 .d2l-htmleditor-buttonmenuitem.d2l-htmleditor-button-active:focus,
 .d2l-htmleditor-buttonmenuitem.d2l-htmleditor-button-active:hover {
-    background-color: #161616
+    background-color: #262626
 }
 
 .d2l-htmleditor-buttonmenuitem-icon {
@@ -1599,7 +1599,7 @@ d2l-dropdown-content .vui-list {
 
 .d2l-htmleditor-color-button:focus,
 .d2l-htmleditor-color-button:hover {
-    background: #161616
+    background: #262626
 }
 
 .d2l-htmleditor-color-sample {
@@ -1691,7 +1691,7 @@ d2l-dropdown-content .vui-list {
 .d2l-htmleditor-footer-inner .d2l-htmleditor-group {
     border-style: none;
     box-shadow: none;
-    background: #121212
+    background: #262626
 }
 
 .d2l-menuflyout.d2l-htmleditor-menuflyout {
@@ -1704,7 +1704,7 @@ d2l-dropdown-content .vui-list {
 }
 
 .d2l-menuflyout.d2l-htmleditor-menuflyout .d2l-menuflyout-opener {
-    background-color: #121212;
+    background-color: #262626;
     border-radius: 0;
     line-height: 1px;
     border: 1px solid transparent;
@@ -1730,7 +1730,7 @@ d2l-dropdown-content .vui-list {
 
 .d2l-menuflyout.d2l-htmleditor-menuflyout .d2l-menuflyout-opener:focus,
 .d2l-menuflyout.d2l-htmleditor-menuflyout .d2l-menuflyout-opener:hover {
-    background-color: #121212;
+    background-color: #262626;
     border: 1px solid #ccc;
     border-top-style: none;
     border-bottom-style: none
@@ -1772,7 +1772,7 @@ d2l-dropdown-content .vui-list {
 }
 
 .d2l-menuflyout.d2l-htmleditor-menuflyout > .d2l-menuflyout-contents {
-    background-color: #121212;
+    background-color: #262626;
     border-color: #ccc;
     border-radius: .3rem;
     margin-right: -1px;
@@ -1816,7 +1816,7 @@ d2l-dropdown-content .vui-list {
 .d2l-htmleditor {
     border: 1px solid #868c8f;
     border-radius: .3rem;
-    background-color: #121212
+    background-color: #262626
 }
 
 .d2l-htmleditor-header {
@@ -1959,7 +1959,7 @@ d2l-dropdown-content .vui-list {
 }
 
 .d2l-htmleditor-component-toggle {
-    background-color: #121212;
+    background-color: #262626;
     padding-left: .7rem;
     padding-right: .7rem;
     margin-top: 0;
@@ -1968,7 +1968,7 @@ d2l-dropdown-content .vui-list {
 
 .d2l-htmleditor-component-toggle:focus,
 .d2l-htmleditor-component-toggle:hover {
-    background-color: #121212
+    background-color: #262626
 }
 
 .d2l-imagelink d2l-icon {
@@ -1985,7 +1985,7 @@ d2l-dropdown-content .vui-list {
 .vui-input[type=password],
 .vui-input[type=text],
 .vui-input[type=url] {
-    background-color: #121212;
+    background-color: #262626;
     border-radius: .3rem;
     border-style: solid;
     border-width: 1px;
@@ -2004,7 +2004,10 @@ d2l-dropdown-content .vui-list {
     position: relative;
     vertical-align: middle;
     width: 100%
-} /* I can't make sense of where this is that the background and text color were originally so similar*/ /*tweak*/
+}
+
+/* I can't make sense of where this is that the background and text color were originally so similar*/
+/*tweak*/
 
 .d2l-edit:-ms-input-placeholder,
 .vui-input[type=email]:-ms-input-placeholder,
@@ -2127,7 +2130,7 @@ d2l-dropdown-content .vui-list {
 
 .d2l-longedit,
 textarea.vui-input {
-    background-color: #121212;
+    background-color: #262626;
     border-radius: .3rem;
     border-style: solid;
     border-width: 1px;
@@ -2147,7 +2150,10 @@ textarea.vui-input {
     vertical-align: middle;
     width: 100%;
     overflow: auto
-} /* I can't make sense of where this is that the background and text color were originally so similar*/ /*tweak*/
+}
+
+/* I can't make sense of where this is that the background and text color were originally so similar*/
+/*tweak*/
 
 .d2l-longedit:-ms-input-placeholder,
 textarea.vui-input:-ms-input-placeholder {
@@ -2238,7 +2244,7 @@ select.vui-input {
 .d2l-select:hover:disabled,
 select.vui-input,
 select.vui-input:hover:disabled {
-    background-color: #121212;
+    background-color: #262626;
     border-color: #191919;
     border-width: 1px;
     box-shadow: inset 0 2px 0 0 rgba(181, 189, 194, .2);
@@ -2255,7 +2261,9 @@ select.vui-input:focus:disabled,
 select.vui-input:hover:disabled {
     background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTEiIGhlaWdodD0iNyIgdmlld0JveD0iMCAwIDExIDciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTEgMmw0LjUgNE0xMCAyTDUuNSA2IiBzdHJva2U9IiM1NjVBNUMiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9zdmc+);
     padding-right: calc(.5rem + 11px + 16px)
-} /*image*/
+}
+
+/*image*/
 
 .d2l-select:focus,
 .d2l-select:hover,
@@ -2345,13 +2353,15 @@ select.vui-input:-moz-focusring {
 .d2l-checkbox:checked,
 .vui-input[type=checkbox]:checked {
     background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20fill%3D%22%23e1e1e1%22%20d%3D%22M8.4%2016.6c.6.6%201.5.6%202.1%200l8-8c.6-.6.6-1.5%200-2.1-.6-.6-1.5-.6-2.1%200l-6.9%207-1.9-1.9c-.6-.6-1.5-.6-2.1%200-.6.6-.6%201.5%200%202.1l2.9%202.9z%22/%3E%3C/svg%3E%0A)
-} /*image*/
+}
+
+/*image*/
 
 .d2l-checkbox,
 .d2l-checkbox:hover:disabled,
 .vui-input[type=checkbox],
 .vui-input[type=checkbox]:hover:disabled {
-    background-color: #121212;
+    background-color: #262626;
     border-color: #868c8f;
     border-width: 1px
 }
@@ -2392,13 +2402,15 @@ select.vui-input:-moz-focusring {
 .d2l-radio:checked,
 .vui-input[type=radio]:checked {
     background-image: url(data:image/svg+xml,%3Csvg%20width%3D%2210%22%20height%3D%2210%22%20viewBox%3D%220%200%2010%2010%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%0A%09%3Ccircle%20cx%3D%225%22%20cy%3D%225%22%20r%3D%225%22%20fill%3D%22%23e1e1e1%22%3E%3C/circle%3E%0A%3C/svg%3E)
-} /*image*/
+}
+
+/*image*/
 
 .d2l-radio,
 .d2l-radio:hover:disabled,
 .vui-input[type=radio],
 .vui-input[type=radio]:hover:disabled {
-    background-color: #121212;
+    background-color: #262626;
     border-color: #868c8f;
     border-width: 1px
 }
@@ -3024,7 +3036,9 @@ button.d2l-navigation-s-button-highlight::-moz-focus-inner {
     font-weight: inherit;
     margin: 0;
     padding: 0
-} /*edit*/
+}
+
+/*edit*/
 
 .d2l-navigation-s-group .d2l-navigation-s-group-wrapper {
     align-items: center;
@@ -3199,11 +3213,11 @@ d2l-navigation-main-footer .d2l-navigation-s-edit-menu {
 }
 
 .d2l-navigation-ib-item-link:hover {
-    background-color: #121212
+    background-color: #262626
 }
 
 .d2l-navigation-ib-item-link:focus {
-    background-color: #121212;
+    background-color: #262626;
     box-shadow: 0 0 0 2px #fff, 0 0 0 4px var(--d2l-color-celestine)
 }
 
@@ -3288,7 +3302,7 @@ d2l-navigation-main-footer .d2l-navigation-s-edit-menu {
 }
 
 div.d2l-navigation-ib-item-icon-group-icon {
-    background-color: #121212;
+    background-color: #262626;
     border: 1px solid #332A23
 }
 
@@ -3365,7 +3379,7 @@ div.d2l-navigation-ib-item-icon-group-icon {
 }
 
 .d2l-navigation-main-ib-pully-tab {
-    background-color: #121212;
+    background-color: #262626;
     border-bottom-left-radius: .5rem;
     border-bottom-right-radius: .5rem;
     display: none;
@@ -3377,7 +3391,7 @@ div.d2l-navigation-ib-item-icon-group-icon {
 }
 
 .d2l-navigation-main-ib-pully-icon {
-    border: 1px solid #121212;
+    border: 1px solid #262626;
     border-top-style: none;
     border-bottom-left-radius: .45rem;
     border-bottom-right-radius: .45rem;
@@ -3663,7 +3677,7 @@ div.d2l-navigation-ib-item-icon-group-icon {
 }
 
 .d2l-navigation-s {
-    background-color: #121212;
+    background-color: #262626;
     line-height: 1;
     min-width: 320px;
     position: relative
@@ -3674,7 +3688,7 @@ div.d2l-navigation-ib-item-icon-group-icon {
 }
 
 .d2l-navigation-s-no-login {
-    background-color: #121212;
+    background-color: #262626;
     line-height: 1;
     min-width: 320px;
     position: relative
@@ -3858,14 +3872,16 @@ div.d2l-navigation-ib-item-icon-group-icon {
     pointer-events: none;
     position: absolute;
     z-index: -100
-} /*edit*/
+}
+
+/*edit*/
 
 .d2l-navigation-s-mobile-menu[data-state=closed] {
     display: none
 }
 
 .d2l-navigation-s-mobile-menu-content {
-    background-color: #121212;
+    background-color: #262626;
     height: 100%;
     left: 0;
     min-width: 300px;
@@ -3889,7 +3905,7 @@ div.d2l-navigation-ib-item-icon-group-icon {
 }
 
 .d2l-navigation-s-mobile-menu-mask {
-    background-color: #121212;
+    background-color: #262626;
     height: 0;
     left: 0;
     opacity: 0;
@@ -4003,8 +4019,8 @@ div.d2l-navigation-ib-item-icon-group-icon {
 }
 
 .d2l-navigation-s-mobile-menu-title-bp {
-    background-color: #121212;
-    border-bottom: 1px solid #121212;
+    background-color: #262626;
+    border-bottom: 1px solid #262626;
     display: none;
     font-size: 1rem;
     font-weight: 700;
@@ -4075,7 +4091,7 @@ div.d2l-navigation-ib-item-icon-group-icon {
 }
 
 .d2l-navigation-mobile-ib-admin-menu {
-    border: 1px solid #121212;
+    border: 1px solid #262626;
     line-height: 0
 }
 
@@ -4085,7 +4101,7 @@ div.d2l-navigation-ib-item-icon-group-icon {
 }
 
 .d2l-navigation-s-button {
-    background-color: #121212;
+    background-color: #262626;
     border: 1px solid transparent;
     border-radius: .4rem;
     color: #e1e1e1;
@@ -4093,7 +4109,10 @@ div.d2l-navigation-ib-item-icon-group-icon {
     font-family: inherit;
     margin: 0;
     padding: 12px
-}/* I can't make sense of where this is that the background and text color were originally so similar*/ /*tweak*/
+}
+
+/* I can't make sense of where this is that the background and text color were originally so similar*/
+/*tweak*/
 
 .d2l-navigation-s-button:focus,
 .d2l-navigation-s-button:hover {
@@ -4136,7 +4155,7 @@ body[unresolved] {
 
 #d2l_body,
 .d2l-body {
-    background-color: #121212;
+    background-color: #262626;
     margin: 0;
     overflow-y: scroll;
     padding: 0
@@ -4211,7 +4230,7 @@ body[unresolved] {
 
 #d2l_body.d2l-page-dashboard,
 .d2l-page-dashboard {
-    background-color: #121212
+    background-color: #262626
 }
 
 .d2l-page-header {
@@ -4226,7 +4245,7 @@ body[unresolved] {
 }
 
 .d2l-column-side {
-    background: #121212;
+    background: #262626;
     box-shadow: -6px 0 8px -7px #bbb inset;
     float: left;
     width: 22.3em;
@@ -4240,7 +4259,7 @@ body[unresolved] {
 }
 
 .d2l-column-side-bg {
-    background-color: #121212;
+    background-color: #262626;
     border-right: 1px solid #bbb;
     box-shadow: -3px 0 5px -3px #bbb inset;
     height: 100%;
@@ -4257,7 +4276,7 @@ body[unresolved] {
 }
 
 .d2l-column-flip .d2l-column-side-bg {
-    background-color: #121212;
+    background-color: #262626;
     border-right: none;
     box-shadow: 2px 0 3px 0 #bbb inset;
     left: auto;
@@ -4286,7 +4305,7 @@ body[unresolved] {
 
 .d2l-column-flip-side {
     box-shadow: 5px 0 4px -3px #bbb inset;
-    background: #121212;
+    background: #262626;
     position: relative
 }
 
@@ -4327,7 +4346,7 @@ body[unresolved] {
 }
 
 .d2l-page-header-dark {
-    background-color: #121212
+    background-color: #262626
 }
 
 .d2l-page-header-dark {
@@ -4355,14 +4374,14 @@ body[unresolved] {
 
 .d2l-twopanelselector-side-bg.d2l-twopanelselector-side-sep,
 .d2l-twopanelselector-side.d2l-twopanelselector-side-sep {
-    border-right: 1px solid #121212;
-    background: linear-gradient(to right, rgba(249, 250, 251, 0) 0, #121212 320px)
+    border-right: 1px solid #262626;
+    background: linear-gradient(to right, rgba(249, 250, 251, 0) 0, #262626 320px)
 }
 
 [dir=rtl] .d2l-twopanelselector-side-bg.d2l-twopanelselector-side-sep,
 [dir=rtl] .d2l-twopanelselector-side.d2l-twopanelselector-side-sep {
-    background: linear-gradient(to left, rgba(249, 250, 251, 0) 0, #121212 320px);
-    border-left: 1px solid #121212;
+    background: linear-gradient(to left, rgba(249, 250, 251, 0) 0, #262626 320px);
+    border-left: 1px solid #262626;
     border-right: none
 }
 
@@ -4416,7 +4435,7 @@ body[unresolved] {
     }
 
     .d2l-twopanelselector-wrapper.d2l-repsonsive-collapse-layout .d2l-twopanelselector-side.d2l-twopanelselector-side-sep {
-        background-color: #121212
+        background-color: #262626
     }
 
     .d2l-twopanelselector-wrapper.d2l-repsonsive-collapse-layout .d2l-twopanelselector-main {
@@ -4604,7 +4623,7 @@ body[unresolved] {
 
 .d2l-dialog-mvc .d2l-dialog-inner,
 .ddial_o2 {
-    background-color: #121212;
+    background-color: #262626;
     border: 1px solid #332A23;
     border-radius: .4rem;
     box-shadow: 0 2px 12px rgba(86, 90, 92, .25);
@@ -4658,7 +4677,8 @@ body[unresolved] {
 }
 
 .d2l-dialog-resize {
-    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23e1e1e1%22%20d%3D%22M16%2018a.999.999%200%200%201-.707-1.707l1-1a.999.999%200%201%201%201.414%201.414l-1%201A.997.997%200%200%201%2016%2018zM10.362%2018a.999.999%200%200%201-.707-1.707l6.638-6.638a.999.999%200%201%201%201.414%201.414l-6.638%206.638a.997.997%200%200%201-.707.293zM4.522%2018a.999.999%200%200%201-.707-1.707L16.293%203.816a.999.999%200%201%201%201.414%201.414L5.229%2017.707a.997.997%200%200%201-.707.293z%22%2F%3E%3C%2Fsvg%3E); /*image*/
+    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23e1e1e1%22%20d%3D%22M16%2018a.999.999%200%200%201-.707-1.707l1-1a.999.999%200%201%201%201.414%201.414l-1%201A.997.997%200%200%201%2016%2018zM10.362%2018a.999.999%200%200%201-.707-1.707l6.638-6.638a.999.999%200%201%201%201.414%201.414l-6.638%206.638a.997.997%200%200%201-.707.293zM4.522%2018a.999.999%200%200%201-.707-1.707L16.293%203.816a.999.999%200%201%201%201.414%201.414L5.229%2017.707a.997.997%200%200%201-.707.293z%22%2F%3E%3C%2Fsvg%3E);
+    /*image*/
     background-position: 100% 100%;
     background-repeat: no-repeat;
     bottom: 0;
@@ -4677,11 +4697,13 @@ body[unresolved] {
 }
 
 .d2l-dialog-resize:hover {
-    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%231C5295%22%20d%3D%22M16%2018a.999.999%200%200%201-.707-1.707l1-1a.999.999%200%201%201%201.414%201.414l-1%201A.997.997%200%200%201%2016%2018zM10.362%2018a.999.999%200%200%201-.707-1.707l6.638-6.638a.999.999%200%201%201%201.414%201.414l-6.638%206.638a.997.997%200%200%201-.707.293zM4.522%2018a.999.999%200%200%201-.707-1.707L16.293%203.816a.999.999%200%201%201%201.414%201.414L5.229%2017.707a.997.997%200%200%201-.707.293z%22%2F%3E%3C%2Fsvg%3E) /*image*/
+    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%231C5295%22%20d%3D%22M16%2018a.999.999%200%200%201-.707-1.707l1-1a.999.999%200%201%201%201.414%201.414l-1%201A.997.997%200%200%201%2016%2018zM10.362%2018a.999.999%200%200%201-.707-1.707l6.638-6.638a.999.999%200%201%201%201.414%201.414l-6.638%206.638a.997.997%200%200%201-.707.293zM4.522%2018a.999.999%200%200%201-.707-1.707L16.293%203.816a.999.999%200%201%201%201.414%201.414L5.229%2017.707a.997.997%200%200%201-.707.293z%22%2F%3E%3C%2Fsvg%3E)
+        /*image*/
 }
 
 [dir=rtl] .d2l-dialog-resize {
-    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23e1e1e1%22%20d%3D%22M2%2018a.999.999%200%200%200%20.707-1.707l-1-1a.999.999%200%201%200-1.414%201.414l1%201A.997.997%200%200%200%202%2018zM7.638%2018a.999.999%200%200%200%20.707-1.707L1.707%209.655a.999.999%200%201%200-1.414%201.414l6.638%206.638a.997.997%200%200%200%20.707.293zM13.478%2018a.999.999%200%200%200%20.707-1.707L1.707%203.816A.999.999%200%201%200%20.293%205.23l12.478%2012.477a.997.997%200%200%200%20.707.293z%22%2F%3E%3C%2Fsvg%3E); /*image*/
+    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23e1e1e1%22%20d%3D%22M2%2018a.999.999%200%200%200%20.707-1.707l-1-1a.999.999%200%201%200-1.414%201.414l1%201A.997.997%200%200%200%202%2018zM7.638%2018a.999.999%200%200%200%20.707-1.707L1.707%209.655a.999.999%200%201%200-1.414%201.414l6.638%206.638a.997.997%200%200%200%20.707.293zM13.478%2018a.999.999%200%200%200%20.707-1.707L1.707%203.816A.999.999%200%201%200%20.293%205.23l12.478%2012.477a.997.997%200%200%200%20.707.293z%22%2F%3E%3C%2Fsvg%3E);
+    /*image*/
     background-position: 0 100%;
     cursor: ne-resize;
     left: 0;
@@ -4689,7 +4711,8 @@ body[unresolved] {
 }
 
 [dir=rtl] .d2l-dialog-resize:hover {
-    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%231C5295%22%20d%3D%22M2%2018a.999.999%200%200%200%20.707-1.707l-1-1a.999.999%200%201%200-1.414%201.414l1%201A.997.997%200%200%200%202%2018zM7.638%2018a.999.999%200%200%200%20.707-1.707L1.707%209.655a.999.999%200%201%200-1.414%201.414l6.638%206.638a.997.997%200%200%200%20.707.293zM13.478%2018a.999.999%200%200%200%20.707-1.707L1.707%203.816A.999.999%200%201%200%20.293%205.23l12.478%2012.477a.997.997%200%200%200%20.707.293z%22%2F%3E%3C%2Fsvg%3E) /*image*/
+    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%231C5295%22%20d%3D%22M2%2018a.999.999%200%200%200%20.707-1.707l-1-1a.999.999%200%201%200-1.414%201.414l1%201A.997.997%200%200%200%202%2018zM7.638%2018a.999.999%200%200%200%20.707-1.707L1.707%209.655a.999.999%200%201%200-1.414%201.414l6.638%206.638a.997.997%200%200%200%20.707.293zM13.478%2018a.999.999%200%200%200%20.707-1.707L1.707%203.816A.999.999%200%201%200%20.293%205.23l12.478%2012.477a.997.997%200%200%200%20.707.293z%22%2F%3E%3C%2Fsvg%3E)
+        /*image*/
 }
 
 .d2l-dialog-resizehandle-hide .d2l-dialog-resize {
@@ -4790,7 +4813,8 @@ screen and (max-width:767px) {
     width: 100%;
     height: 100%;
     display: block;
-    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%22-5%207%2018%2018%22%3E%3Cpath%20fill%3D%22%23e1e1e1%22%20d%3D%22M9.707%2020.29c.39.39.39%201.03%200%201.42-.2.19-.45.29-.71.29-.26%200-.51-.1-.71-.29l-4.288-4.289-4.288%204.289c-.2.19-.45.29-.71.29s-.51-.1-.71-.29c-.39-.39-.39-1.03%200-1.42l4.288-4.289-4.288-4.289c-.39-.39-.39-1.03%200-1.42.39-.39%201.03-.39%201.419%200l4.289%204.29%204.288-4.289c.39-.39%201.03-.39%201.419%200%20.39.39.39%201.03%200%201.42l-4.288%204.289%204.289%204.288z%22%2F%3E%3C%2Fsvg%3E); /*image*/
+    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%22-5%207%2018%2018%22%3E%3Cpath%20fill%3D%22%23e1e1e1%22%20d%3D%22M9.707%2020.29c.39.39.39%201.03%200%201.42-.2.19-.45.29-.71.29-.26%200-.51-.1-.71-.29l-4.288-4.289-4.288%204.289c-.2.19-.45.29-.71.29s-.51-.1-.71-.29c-.39-.39-.39-1.03%200-1.42l4.288-4.289-4.288-4.289c-.39-.39-.39-1.03%200-1.42.39-.39%201.03-.39%201.419%200l4.289%204.29%204.288-4.289c.39-.39%201.03-.39%201.419%200%20.39.39.39%201.03%200%201.42l-4.288%204.289%204.289%204.288z%22%2F%3E%3C%2Fsvg%3E);
+    /*image*/
     background-position: center center;
     background-repeat: no-repeat;
     background-size: .9rem .9rem
@@ -4801,7 +4825,8 @@ screen and (max-width:767px) {
 }
 
 .d2l-dialog-close:hover > span {
-    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%22-5%207%2018%2018%22%3E%3Cpath%20fill%3D%22%231C5295%22%20d%3D%22M9.707%2020.29c.39.39.39%201.03%200%201.42-.2.19-.45.29-.71.29-.26%200-.51-.1-.71-.29l-4.288-4.289-4.288%204.289c-.2.19-.45.29-.71.29s-.51-.1-.71-.29c-.39-.39-.39-1.03%200-1.42l4.288-4.289-4.288-4.289c-.39-.39-.39-1.03%200-1.42.39-.39%201.03-.39%201.419%200l4.289%204.29%204.288-4.289c.39-.39%201.03-.39%201.419%200%20.39.39.39%201.03%200%201.42l-4.288%204.289%204.289%204.288z%22%2F%3E%3C%2Fsvg%3E) /*image*/
+    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%22-5%207%2018%2018%22%3E%3Cpath%20fill%3D%22%231C5295%22%20d%3D%22M9.707%2020.29c.39.39.39%201.03%200%201.42-.2.19-.45.29-.71.29-.26%200-.51-.1-.71-.29l-4.288-4.289-4.288%204.289c-.2.19-.45.29-.71.29s-.51-.1-.71-.29c-.39-.39-.39-1.03%200-1.42l4.288-4.289-4.288-4.289c-.39-.39-.39-1.03%200-1.42.39-.39%201.03-.39%201.419%200l4.289%204.29%204.288-4.289c.39-.39%201.03-.39%201.419%200%20.39.39.39%201.03%200%201.42l-4.288%204.289%204.289%204.288z%22%2F%3E%3C%2Fsvg%3E)
+        /*image*/
 }
 
 .d2l-dialog-close:focus {
@@ -4877,7 +4902,7 @@ screen and (max-width:767px) {
 }
 
 .d2l-shim {
-    background-color: #121212;
+    background-color: #262626;
     bottom: 0;
     opacity: 0;
     position: fixed;
@@ -4932,7 +4957,7 @@ screen and (max-width:767px) {
 }
 
 .d2l-tile {
-    background-color: #121212;
+    background-color: #111111;
     border-radius: 8px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .03)
 }
