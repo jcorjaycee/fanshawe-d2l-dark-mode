@@ -1,3 +1,6 @@
+# THIS PROJECT IS NOW ABANDONED
+ Turns out Dark Reader already themes FOL with very few issues. This repo is staying active for historical reasons.
+
 # fanshawe-d2l-dark-mode
  Brightspace didn't want to give us a dark mode, so we made our own.
 
