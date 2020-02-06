@@ -4965,6 +4965,14 @@
     /*edit*/
     /*edited*/
 
+
+    .d2l-branding-navigation-background-color {
+        background-color: transparent;
+    }
+
+    /*added*/
+    /*overrides style tag located in www.fanshaweonline.ca/d2l/home:41*/
+
     /* KEEPING THIS HERE FOR THE TIME BEING
         #shadow_root:host {
             --d2l-tabs-background-color: #121212 !important
